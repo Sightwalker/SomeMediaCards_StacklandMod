@@ -1,0 +1,17 @@
+{
+  "id": "SomeMediaCards_oran_berry",
+  "nameTerm": "SomeMediaCards_oran_berry_name",
+  "descriptionTerm": "SomeMediaCards_oran_berry_description",
+  "icon": "OranBerry.png",
+  "value": 1,
+  "type": "Food",
+  "script": "Food",
+  "_CanSpoil": false,
+  "_FoodValue": 1,
+  "_HasUniquePalette": true,
+  "_MyPalette": {
+    "Color": "#5C92FF",
+    "Color2": "#0356FC",
+    "Icon": "#000000"
+  }
+}

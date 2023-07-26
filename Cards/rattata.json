@@ -1,0 +1,16 @@
+{
+  "id": "SomeMediaCards_rattata",
+  "nameTerm": "SomeMediaCards_rattata_name",
+  "descriptionTerm": "SomeMediaCards_rattata_description",
+  "type": "Mobs",
+  "icon": "Rattata.png",
+  "value": -1,
+  "script": "Animal",
+  "_BaseCombatStats": {
+    "MaxHealth": 10,
+    "AttackDamage": 1,
+    "AttackSpeed": 2,
+    "Defence": 1,
+    "HitChance": 0.9
+  }
+}
