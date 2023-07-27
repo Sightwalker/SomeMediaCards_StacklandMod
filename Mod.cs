@@ -10,7 +10,9 @@ namespace SomeMediaCardsNS
         public override void Ready()
         {
 			WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.BasicFood, "SomeMediaCards_oran_berry", 1);
-			WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.BasicEnemy, "SomeMediaCards_rattata", 1);
+			WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.Animal, "SomeMediaCards_rattata", 1);
+			WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.BasicEnemy, "SomeMediaCards_minecraft_zombie", 1);
+			WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.CookingIdea, "SomeMediaCards_blueprint_oran_berry", 1);
             Logger.Log("Ready!");
         }
     }

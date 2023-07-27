@@ -1,0 +1,17 @@
+{
+  "id": "SomeMediaCards_minecraft_zombie",
+  "nameTerm": "SomeMediaCards_minecraft_zombie_name",
+  "descriptionTerm": "SomeMediaCards_minecraft_zombie_description",
+  "type": "Mobs",
+  "icon": "MinecraftZombie.png",
+  "value": -1,
+  "_IsAggressive" : true,
+  "script": "Enemy",
+  "_BaseCombatStats": {
+    "MaxHealth": 10,
+    "AttackDamage": 2,
+    "AttackSpeed": 0.8,
+    "Defence": 1,
+    "HitChance": 0.8
+  }
+}
