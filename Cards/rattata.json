@@ -5,7 +5,7 @@
   "type": "Mobs",
   "icon": "Rattata.png",
   "value": -1,
-  "script": "Animal",
+  "script": "SomeMediaCardsNS.Pokemon",
   "_BaseCombatStats": {
     "MaxHealth": 10,
     "AttackDamage": 1,
