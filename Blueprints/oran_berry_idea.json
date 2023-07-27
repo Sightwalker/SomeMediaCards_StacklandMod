@@ -1,9 +1,7 @@
 {
   "id": "SomeMediaCards_blueprint_oran_berry",
-  "nameTerm": "SomeMediaCards_blueprint_oran_berry_name",
+  "nameTerm": "SomeMediaCards_oran_berry_name",
   "group": "Cooking",
-  "hideFromCardopedia": true,
-  "hideFromIdeasTab": true,
   "subprints": [
     {
       "RequiredCards": "SomeMediaCards_oran_berry, soil",
