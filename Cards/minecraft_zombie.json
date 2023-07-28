@@ -5,13 +5,30 @@
   "type": "Mobs",
   "icon": "MinecraftZombie.png",
   "value": -1,
-  "_IsAggressive" : true,
   "script": "Enemy",
+  "_CanHaveInventory": 1,
+  "_PossibleEquipableIds": ["sword"],
+  "_IsAggressive": 1,
+  "_AlwaysDrop": 0,
   "_BaseCombatStats": {
     "MaxHealth": 10,
     "AttackDamage": 2,
-    "AttackSpeed": 0.8,
+    "AttackSpeed": 2.5,
     "Defence": 1,
-    "HitChance": 0.8
+    "HitChance": 0.8,
+	"SpecialHits": []
+  },
+  "_Drops": {
+	"CardBagType": 0,
+	"CardsInPack": 2,
+	"Chances": [
+		{
+			"id": "carrot",
+			"chance": 1
+		}, 
+		{
+			"id": "potato",
+			"chance": 1
+		}]
   }
 }
