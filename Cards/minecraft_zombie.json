@@ -8,8 +8,8 @@
   "script": "Enemy",
   "_CanHaveInventory": 1,
   "_PossibleEquipableIds": ["sword"],
-  "_IsAggressive": 1,
-  "_AlwaysDrop": 0,
+  "_IsAggressive": true,
+  "_AlwaysDrop": false,
   "_BaseCombatStats": {
     "MaxHealth": 10,
     "AttackDamage": 2,
@@ -20,15 +20,20 @@
   },
   "_Drops": {
 	"CardBagType": 0,
-	"CardsInPack": 2,
+	"CardsInPack": 1,
 	"Chances": [
 		{
 			"id": "carrot",
-			"chance": 1
+			"chance": 0.6
 		}, 
 		{
 			"id": "potato",
-			"chance": 1
-		}]
+			"chance": 0.9
+		},
+		{
+			"id": "stick",
+			"chance": 2.5
+		}
+	]
   }
 }
