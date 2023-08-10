@@ -6,11 +6,23 @@
   "icon": "Rattata.png",
   "value": -1,
   "script": "SomeMediaCardsNS.Pokemon",
+  "_AlwaysDrop": false,
   "_BaseCombatStats": {
     "MaxHealth": 10,
     "AttackDamage": 1,
     "AttackSpeed": 2,
     "Defence": 1,
-    "HitChance": 0.9
+    "HitChance": 0.9,
+	"SpecialHits": []
+  }
+    "_Drops": {
+	"CardBagType": 0,
+	"CardsInPack": 1,
+	"Chances": [
+		{
+			"id": "SomeMediaCards_oran_berry",
+			"chance": 2.5
+		}
+	]
   }
 }

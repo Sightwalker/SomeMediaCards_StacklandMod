@@ -7,32 +7,32 @@
   "subprints": [
     {
       "RequiredCards": "SomeMediaCards_oran_berry, soil",
-      "ExtraResultCards": "SomeMediaCards_oran_berry, SomeMediaCards_oran_berry, soil",
-      "Time": 10,
+      "ExtraResultCards": "SomeMediaCards_oran_berry, SomeMediaCards_oran_berry",
+      "Time": 200,
       "StatusTerm": "SomeMediaCards_idea_oran_berry_status",
     },
 	{
       "RequiredCards": "SomeMediaCards_oran_berry, poop",
-      "ExtraResultCards": "SomeMediaCards_oran_berry, SomeMediaCards_oran_berry, poop",
-      "Time": 10,
+      "ExtraResultCards": "SomeMediaCards_oran_berry, SomeMediaCards_oran_berry",
+      "Time": 200,
       "StatusTerm": "SomeMediaCards_idea_oran_berry_status",
     },
 	{
       "RequiredCards": "SomeMediaCards_oran_berry, garden",
-      "ExtraResultCards": "SomeMediaCards_oran_berry, SomeMediaCards_oran_berry, garden",
-      "Time": 10,
+      "ExtraResultCards": "SomeMediaCards_oran_berry, SomeMediaCards_oran_berry",
+      "Time": 200,
       "StatusTerm": "SomeMediaCards_idea_oran_berry_status",
     },
 	{
       "RequiredCards": "SomeMediaCards_oran_berry, farm",
-      "ExtraResultCards": "SomeMediaCards_oran_berry, SomeMediaCards_oran_berry, farm",
-      "Time": 10,
+      "ExtraResultCards": "SomeMediaCards_oran_berry, SomeMediaCards_oran_berry",
+      "Time": 200,
       "StatusTerm": "SomeMediaCards_idea_oran_berry_status",
     },
 	{
       "RequiredCards": "SomeMediaCards_oran_berry, greenhouse",
-      "ExtraResultCards": "SomeMediaCards_oran_berry, SomeMediaCards_oran_berry, greenhouse",
-      "Time": 10,
+      "ExtraResultCards": "SomeMediaCards_oran_berry, SomeMediaCards_oran_berry",
+      "Time": 200,
       "StatusTerm": "SomeMediaCards_idea_oran_berry_status",
     }
   ]
